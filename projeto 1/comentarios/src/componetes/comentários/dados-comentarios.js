@@ -1,7 +1,7 @@
 import React from "react";
 import Comentarios from './Comentarios.js';
 
-function dados(){
+export default function dados(){
     return(
         <div>
             <Comentarios
@@ -29,4 +29,4 @@ function dados(){
     )
 }
 
-export default dados;
+

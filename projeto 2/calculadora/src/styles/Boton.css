@@ -1,0 +1,20 @@
+button{
+    margin: 10px;
+    width: auto;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.boton-clic {
+    background-color: blueviolet;
+}
+
+.boton-reiniciar {
+    background-color: gray;
+}

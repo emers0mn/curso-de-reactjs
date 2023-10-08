@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Comentarios from '../src/componetes/comentários/dados-comentarios.js'
 
-function App() {
+export default function App() {
   return (
     <div className="App">
 
@@ -13,5 +13,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
